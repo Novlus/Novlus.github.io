@@ -1,7 +1,7 @@
 header
 {
-	color : white;
-    padding-bottom : 20px;
+   color : white;
+   padding-bottom : 20px;
     text-align : center;
     background-color: white;
      position:fixed;
@@ -9,6 +9,7 @@ header
      position:fixed;
 	 height:120px;
 	z-index: 2;
+	top : 0;
 }
 
 
